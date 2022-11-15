@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Most of my work just get started and in progress. So stay tuned!!
+
+Best way to reach me is discord: neuralink#7014
+
 <!--
 **xrsrke/xrsrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
