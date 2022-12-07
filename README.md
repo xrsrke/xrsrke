@@ -2,7 +2,7 @@
 
 Most of my work just get started and in progress. So stay tuned!!
 
-Currently, I'm working on build stable diffusion, GPT-2 and AlphaZero from scratch. Feel free to check them out on my github.
+Currently, I'm working on re-implement Stable Diffusion, GPT-2 and AlphaZero from scratch. Feel free to check them out on my github.
 
 Best way to reach me is discord: neuralink#7014
 
