@@ -6,6 +6,8 @@ Currently, I'm working on re-implement Stable Diffusion, MuZero from scratch. Fe
 
 Best way to reach me is discord: neuralink#7014
 
+I am streaming daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
+
 <!--
 **xrsrke/xrsrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
