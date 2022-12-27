@@ -7,7 +7,7 @@ Feel free to check them out on my github.
 
 I am streaming daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
-Best way to reach me is discord: neuralink#7014
+Best way to reach me is discord: neuralink#7014 or [twitter/@xariusrke](https://twitter.com/xariusrke)
 
 <!--
 **xrsrke/xrsrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
