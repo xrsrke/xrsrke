@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am interested in physics, deep learning, neuroscience, material science, and nanoscience. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent 200 hours studying consistently.
+I am interested in physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent 200 hours studying consistently (24/7/365).
 
-Currently, I'm working on re-implement Stable Diffusion, MuZero from scratch. Most of my work just get started and in progress. So stay tuned!!
+Currently, I'm working on re-implement Stable Diffusion, MuZero, RLHF from scratch. Most of my work just get started and in progress. So stay tuned!!
 Feel free to check them out on my github.
 
 I am streaming daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
-Best way to reach me is discord: neuralink#7014 or [twitter/@xariusrke](https://twitter.com/xariusrke)
+Best way to reach me is discord: neuralink#7014, [twitter/@xariusrke](https://twitter.com/xariusrke) or b3f0cus[@]icloud.com
 
 <!--
 **xrsrke/xrsrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
