@@ -4,7 +4,7 @@ I am interested in particle physics, deep learning, neuroscience, material scien
 
 I am streaming daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
-Currently, I'm working on re-implement Stable Diffusion, [MuZero](https://github.com/xrsrke/muzero), [RLHF](https://github.com/xrsrke/instructGOOSE) from scratch. Most of my work just get started and in progress. So stay tuned!!
+Currently, I'm working on re-implement Stable Diffusion, [MuZero](https://github.com/xrsrke/muzero), [RLHF](https://github.com/xrsrke/instructGOOSE), [PauliNet](https://github.com/xrsrke/paulinet) from scratch. Most of my work just get started and in progress. So stay tuned!!
 Feel free to check them out on my github.
 
 Best way to reach me is discord: neuralink#7014, [twitter/@xariusrke](https://twitter.com/xariusrke) or b3f0cus[@]icloud.com
