@@ -2,7 +2,7 @@
 
 I am interested in particle physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) studying consistently (365/365).
 
-I am streaming daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
+I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
 **Building from scratch**
 1. 🧠 Decoding speech-related neural activity into text [[code]](https://github.com/xrsrke/neuraltext) [[paper]](https://www.nature.com/articles/s41586-021-03506-2#data-availability) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
