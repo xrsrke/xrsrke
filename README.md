@@ -5,7 +5,7 @@ I am interested in particle physics, deep learning, neuroscience, material scien
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
 **Building from scratch**
-1. 🧠 Decoding speech-related neural activity into text [[code]](https://github.com/xrsrke/neuraltext) [[paper]](https://www.nature.com/articles/s41586-021-03506-2#data-availability) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
+1. 🧠 Decoding neural activity into text [[code]](https://github.com/xrsrke/neuraltext) [[paper]](https://www.nature.com/articles/s41586-021-03506-2#data-availability) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
 2. 🧬  Designing a new bacteria-killing protein [[code]](https://github.com/xrsrke/progen) [[paper]](https://www.nature.com/articles/s41587-022-01618-2) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
 3. 💥 Developing a neural network in quantum mechanics [[code]](https://github.com/xrsrke/paulinet) [[paper]](https://arxiv.org/abs/1909.08423) [[learning progress]](https://twitter.com/xariusrke/status/1617054608496693249)
 4. 🤖 Controlling a robot with environment-awareness using a language model [[code]](https://github.com/xrsrke/saycan) [[paper]](https://say-can.github.io/assets/palm_saycan.pdf) [[learning progress]](https://twitter.com/xariusrke/status/1622530619694796800)
