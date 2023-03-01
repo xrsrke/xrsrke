@@ -8,7 +8,7 @@ I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 1. 🧠 Decoding neural activity into text [[code]](https://github.com/xrsrke/neuraltext) [[paper]](https://www.nature.com/articles/s41586-021-03506-2#data-availability) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
 2. 🧬  Generating new proteins using language model [[code]](https://github.com/xrsrke/progen) [[paper]](https://www.nature.com/articles/s41587-022-01618-2) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
 3. 💥 Predicting behavior of quantum object using deep learning [[code]](https://github.com/xrsrke/paulinet) [[paper]](https://arxiv.org/abs/1909.08423) [[learning progress]](https://twitter.com/xariusrke/status/1617054608496693249)
-4. 🤖 ToolFormer: Language Models Can Teach Themselves to Use Tools [[code]](https://github.com/xrsrke/toolformer) [[paper]](https://arxiv.org/abs/2302.04761)) [[learning progress]](https://twitter.com/xariusrke/status/1630503779220226053)
+4. 🤖 ToolFormer: Language Models Can Teach Themselves to Use Tools [[code]](https://github.com/xrsrke/toolformer) [[paper]](https://arxiv.org/abs/2302.04761) [[learning progress]](https://twitter.com/xariusrke/status/1630503779220226053)
 
 
 Best way to reach me is discord: neuralink#7014, [twitter/@xariusrke](https://twitter.com/xariusrke) or hello[@]xrs.wtf
