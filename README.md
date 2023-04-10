@@ -10,7 +10,7 @@ I stream daily on Twitch (won't stream this week): [twitch.tv/xrsrke](https://ww
 3. 🧬  Generating new proteins using language model [[code]](https://github.com/xrsrke/progen) [[paper]](https://www.nature.com/articles/s41587-022-01618-2) [[learning progress]](https://twitter.com/xariusrke/status/1621403313651728386)
 4. 💥 Predicting behavior of quantum object using deep learning [[code]](https://github.com/xrsrke/paulinet) [[paper]](https://arxiv.org/abs/1909.08423) [[learning progress]](https://twitter.com/xariusrke/status/1617054608496693249)
  -->
-Best way to reach me is discord: neuralink#7014, [twitter/@xariusrke](https://twitter.com/xariusrke) or hello[@]xrs.wtf
+Best way to reach me is discord: neuralink#6942, [twitter/@xariusrke](https://twitter.com/xariusrke) or hello[@]xrs.wtf
 
 <!--
 
