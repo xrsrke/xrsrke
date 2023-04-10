@@ -2,7 +2,7 @@
 <!-- 
 I am interested in particle physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) studying consistently (365/365).
  -->
-I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
+I stream daily on Twitch (won't stream this week): [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke)
 
 <!-- **Building from scratch**
 1. 🤖 REPAIRED: Replay-Guided Adversarial Environment Design [[code]](https://github.com/xrsrke/repaired) [[paper]]([https://arxiv.org/abs/2302.04761](https://arxiv.org/abs/2110.02439)) [[learning progress]](https://twitter.com/xariusrke/status/1630503779220226053)
