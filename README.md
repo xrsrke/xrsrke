@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) to studying [consistently](https://i.imgur.com/tv64oG5.png) from 4:00 AM to 3:00 PM.
+Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) to studying consistently from 4:00 AM to 3:00 PM.
 
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
