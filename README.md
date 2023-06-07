@@ -4,7 +4,7 @@ Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) to studying con
 
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
-Currently, I'm breaking down the implementation of model parallelism in Megatron-LM and GPT-NeoX. I am also working on reimplementing the Zero Redundancy Optimizer and building [an ML pipeline](https://twitter.com/xariusrke/status/1645347102342672384), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053).
+Currently, I'm breaking down the implementation of model parallelism in Megatron-LM and GPT-NeoX, and pipeline paralleism in [TorchGPipe](https://github.com/kakaobrain/torchgpipe). I am also working on reimplementing the Zero Redundancy Optimizer and building [an ML pipeline](https://twitter.com/xariusrke/status/1645347102342672384), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053).
 
 
 Best way to reach me is discord: neuralink#8947, [twitter/@xariusrke](https://twitter.com/xariusrke) or hello[@]xrs.wtf
