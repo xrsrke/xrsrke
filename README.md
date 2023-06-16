@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) to studying consistently from 4:00 AM to 3:00 PM.
+Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) (no breaks included) to studying consistently from 4:00 AM to 3:00 PM.
 
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
@@ -13,7 +13,7 @@ Best way to reach me is discord: neuralink#8947, [twitter/@xariusrke](https://tw
 
 
 <!-- 
-I am interested in particle physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) studying consistently (365/365).
+I am interested in particle physics, deep learning, neuroscience, material science, nanoscience, astrophysics and synthetic biology. I have designed my curriculum and study from 4:00 AM to 3:00 PM to get the information into my brain. Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) (no breaks included) studying consistently (365/365).
  -->
 
 <!-- **Building from scratch**
