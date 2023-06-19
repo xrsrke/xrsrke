@@ -2,6 +2,8 @@
 
 Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) (**no breaks included**) to studying consistently from 4:00 AM to 3:00 PM.
 
+![69](/.SCR-20230619-nrtd.png)
+
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
 Currently, I'm breaking down the implementation of model parallelism in Megatron-LM and GPT-NeoX, and pipeline paralleism in [TorchGPipe](https://github.com/kakaobrain/torchgpipe). I am also working on reimplementing the Zero Redundancy Optimizer and building [an ML pipeline](https://twitter.com/xariusrke/status/1645347102342672384), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053).
