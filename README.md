@@ -2,7 +2,7 @@
 
 Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) (**no breaks included**) to studying consistently from 4:00 AM to 3:00 PM.
 
-![69](/.SCR-20230619-nrtd.png)
+![69](./SCR-20230619-nrtd.png)
 
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
