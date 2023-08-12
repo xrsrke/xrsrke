@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Last month, I spent [200 hours](https://i.imgur.com/YNhZBEo.png) (**no breaks included**) to studying consistently from 4:00 AM to 3:00 PM.
+I study consistently from 4:00 AM to 3:00 PM. And then go to sleep from 5:20 PM to 3:10 AM (schedule optimized for studying, this is 9 hrs of sleep, around 45m to fall asleep).
 
 <!-- ![69](./SCR-20230619-nrtd.png) -->
 
