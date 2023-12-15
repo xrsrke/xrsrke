@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, this is 9 hrs of sleep, around 45m to fall asleep). **AND REPEAT.**
+High school dropout. Research Engineer @huggingface. Working on scaling neural networks to massive. I study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, this is 9 hrs of sleep, around 45m to fall asleep). **AND REPEAT.**
 
 <!-- ![69](./SCR-20230619-nrtd.png) -->
 
