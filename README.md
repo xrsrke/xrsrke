@@ -8,7 +8,7 @@ I used to study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 
 
 I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
 
-Currently, I'm building [a library that enables training any 🤗 `transformers` models in 3D parallelism and ZeRO-1 out of the box](https://github.com/xrsrke/pipegoose), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053).
+~~Currently, I'm building [a library that enables training any 🤗 `transformers` models in 3D parallelism and ZeRO-1 out of the box](https://github.com/xrsrke/pipegoose), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053)~~.
 
 
 **DMs open**
