@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Scaling neural networks to massive scale at 🤗 HuggingFace.
-
 I used to study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, around 45m to fall asleep) for more than a year (I studied many other things before ML). AND REPEATED.
 
 <!-- ![69](./SCR-20230619-nrtd.png) -->
