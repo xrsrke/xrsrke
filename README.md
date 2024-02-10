@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I used to study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, around 45m to fall asleep) for more than a year (I studied many other things before ML). AND REPEATED (nothing has changed, i've only shifted the schedule now).
+I used to study consistently from 3:30 AM to 3:30 PM. And then go to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, around 45m to fall asleep) for more than a year (I studied many other things before ML). AND REPEATED (nothing has changed but only the schedule).
 
 <!-- ![69](./SCR-20230619-nrtd.png) -->
 
