@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I used to study consistently from 3:30 AM to 3:30 PM. And then went to sleep from 5:20 PM to 2:45 AM (schedule optimized for studying, around 45m to fall asleep) for over 2 years (I studied many other things before ML). AND REPEATED.
-
-<!-- ![69](./SCR-20230619-nrtd.png) -->
-
-I stream daily on Twitch: [twitch.tv/xrsrke](https://www.twitch.tv/xrsrke) 
-
-~~Currently, I'm building [a library that enables training any 🤗 `transformers` models in 3D parallelism and ZeRO-1 out of the box](https://github.com/xrsrke/pipegoose), and learning about [mechanistic interpretability](https://twitter.com/xariusrke/status/1630503779220226053)~~.
+nanotroning @ huggingface
 
 
 **DMs open**
