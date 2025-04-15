@@ -5,7 +5,7 @@ nanotroning @ huggingface
 
 **DMs open**
 
-Best way to reach me is discord: neuralink, [twitter/@xariusrke](https://twitter.com/xariusrke), or `b3f0cus@icloud.com`
+Best way to reach me is discord: neuralink, [twitter/@xariusrke](https://twitter.com/xariusrke)
 
 
 
