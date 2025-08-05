@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-nanotroning @ huggingface
+nanotroning @ huggingface. DMs open
 
+https://phucnguyen.dev. 
 
 **DMs open**
 
