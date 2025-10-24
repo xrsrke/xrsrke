@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-nanotroning @ huggingface. DMs open
+currently distributed training @ nous research. ex-nanotroning @ huggingface. DMs open
 
 https://phucnguyen.dev. 
 
