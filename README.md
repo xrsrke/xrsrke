@@ -2,7 +2,7 @@
 
 currently distributed training @ nous research. ex-nanotron @ huggingface. DMs open
 
-https://phucnguyen.dev. 
+[https://phucnguyen.dev](https://phuchnguyen.com)
 
 **DMs open**
 
