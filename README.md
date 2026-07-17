@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-currently distributed training @ nous research. ex-nanotron @ huggingface. DMs open
+post training + infra for pre/post-training @ nous research. ex-nanotron @ huggingface. DMs open
 
 [https://phuchnguyen.com](https://phuchnguyen.com)
 
